@@ -1,0 +1,44 @@
+*{
+    margin:0;
+}
+
+body {
+    background-color: #77fdc5;
+
+}
+
+header {
+ background-image: linear-gradient(to top, #047043, #05da81);
+ color: white;
+ text-align: center;
+ padding: 20px;
+
+}
+
+main {
+    background-color: white;
+    margin-right: px;
+    margin-left: px;
+    border: 1px solid red;
+}
+
+.menu{
+    text-align: left;
+    color: white;
+}
+
+.menu > a{
+    color:white;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#dan-droids > h2 {
+ background-image: linear-gradient(to right, #a4f3c2, #d0f8e3, #eefff4);
+}
+
+#irina > h2 {
+    background-image: linear-gradient(to right, #a4f3c2, #d0f8e3, #eefff4);
+}
+
